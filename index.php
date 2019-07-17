@@ -11,7 +11,7 @@ $ocpApimSubscriptionKey = 'fa72d4e89dbb4af8a46f1a5864dbfca6';
 // You must use the same location in your REST call as you used to obtain
 // your subscription keys. For example, if you obtained your subscription keys
 // from westus, replace "westcentralus" in the URL below with "westus".
-$uriBase = 'https://westcentralus.api.cognitive.microsoft.com/face/v1.0/';
+$uriBase = 'https://emotionfr.cognitiveservices.azure.com/face/v1.0';
 
 $imageUrl =
     
